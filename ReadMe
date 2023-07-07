@@ -1,0 +1,34 @@
+Projeto para demonstração de Estrutura de Dados em Java!
+
+Referência: https://www.geeksforgeeks.org/data-structures/
+
+O que é estrutura de dados?
+
+É uma forma bastante utilizada em desenvolvimento de software para organizar dados em um computador
+para que possam ser acessados e manipulados de forma eficiente.
+
+1   Estrutura de dados linear: A estrutura de dados na qual os elementos de dados são organizados sequencialmente
+ou linearmente, onde cada elemento é anexado aos seus elementos adjacentes anteriores e posteriores,
+é chamada de estrutura de dados linear.
+
+1.1 Estrutura de dados estática: A estrutura de dados estática tem um tamanho de memória fixo.
+
+    Um exemplo dessa estrutura de dados é um array.
+
+1.2 Estrutura de dados dinâmica: Na estrutura de dados dinâmica, o tamanho não é fixo.
+
+    Ele pode ser atualizado aleatoriamente durante o tempo de execução, o que pode ser considerado eficiente em
+    relação à complexidade da memória (espaço) do código.
+
+    Exemplos dessa estrutura de dados são fila, pilha e etc.
+
+2   Estrutura de dados não linear: As estruturas de dados em que os elementos de dados não são colocados sequencialmente ou
+linearmente são chamadas de estruturas de dados não lineares.
+
+2.1 Em uma estrutura de dados não linear, não podemos percorrer todos os elementos em apenas uma execução.
+
+    Exemplos de estruturas de dados não lineares são árvores e gráficos.
+
+Referência de Estruturas Java
+
+https://docs.oracle.com/javase/8/docs/technotes/guides/collections/reference.html
