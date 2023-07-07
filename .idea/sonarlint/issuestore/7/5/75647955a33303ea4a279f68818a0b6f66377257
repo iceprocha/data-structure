@@ -1,18 +1,0 @@
-
-k
-java:S1149*"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(ƒÿƒ—ùÿÿÿÿ
-h	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†Ç¯Õûÿÿÿÿ
-V	java:S125"<This block of commented-out lines of code should be removed.(ÓúÚÍÿÿÿÿÿ
-N	java:S106"9Replace this use of System.out or System.err by a logger.(Æƒ›É
-N	java:S106"9Replace this use of System.out or System.err by a logger.(Æƒ›É
-N	java:S106"9Replace this use of System.out or System.err by a logger.(Æƒ›É
-V	java:S125"<This block of commented-out lines of code should be removed.(”£šÄúÿÿÿÿ
-c	java:S100%"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( ‡ßÇ
-N	java:S1060"9Replace this use of System.out or System.err by a logger.(ÊØ¡Œ
-N	java:S1061"9Replace this use of System.out or System.err by a logger.(ÊØ¡Œ
-N	java:S1062"9Replace this use of System.out or System.err by a logger.(ÊØ¡Œ
-N	java:S1063"9Replace this use of System.out or System.err by a logger.(ÊØ¡Œ
-c	java:S100;"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ú£“ƒ
-S	java:S106I"9Replace this use of System.out or System.err by a logger.(Ïúƒíÿÿÿÿÿ
-h	java:S100Q"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤”îöúÿÿÿÿ
-S	java:S106a"9Replace this use of System.out or System.err by a logger.(Ïúƒíÿÿÿÿÿ
