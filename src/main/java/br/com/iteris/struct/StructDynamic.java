@@ -23,6 +23,7 @@ public class StructDynamic {
     languages.add("2-C#");
     languages.add("3-Delphi");
     languages.offer("4-Python");
+    languages.offer("5-Javascript");
 
     System.out.println(languages.poll());
     System.out.println(languages.poll());
